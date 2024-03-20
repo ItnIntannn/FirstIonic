@@ -1,0 +1,7 @@
+{
+  "name": "FIRST IONIC VUE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
